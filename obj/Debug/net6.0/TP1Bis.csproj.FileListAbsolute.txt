@@ -1,0 +1,15 @@
+Z:\Programacion\TP 1 Bis - Afianzando colecciones\bin\Debug\net6.0\TP1Bis.exe
+Z:\Programacion\TP 1 Bis - Afianzando colecciones\bin\Debug\net6.0\TP1Bis.deps.json
+Z:\Programacion\TP 1 Bis - Afianzando colecciones\bin\Debug\net6.0\TP1Bis.runtimeconfig.json
+Z:\Programacion\TP 1 Bis - Afianzando colecciones\bin\Debug\net6.0\TP1Bis.dll
+Z:\Programacion\TP 1 Bis - Afianzando colecciones\bin\Debug\net6.0\TP1Bis.pdb
+Z:\Programacion\TP 1 Bis - Afianzando colecciones\obj\Debug\net6.0\TP1Bis.csproj.AssemblyReference.cache
+Z:\Programacion\TP 1 Bis - Afianzando colecciones\obj\Debug\net6.0\TP1Bis.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Programacion\TP 1 Bis - Afianzando colecciones\obj\Debug\net6.0\TP1Bis.AssemblyInfoInputs.cache
+Z:\Programacion\TP 1 Bis - Afianzando colecciones\obj\Debug\net6.0\TP1Bis.AssemblyInfo.cs
+Z:\Programacion\TP 1 Bis - Afianzando colecciones\obj\Debug\net6.0\TP1Bis.csproj.CoreCompileInputs.cache
+Z:\Programacion\TP 1 Bis - Afianzando colecciones\obj\Debug\net6.0\TP1Bis.dll
+Z:\Programacion\TP 1 Bis - Afianzando colecciones\obj\Debug\net6.0\refint\TP1Bis.dll
+Z:\Programacion\TP 1 Bis - Afianzando colecciones\obj\Debug\net6.0\TP1Bis.pdb
+Z:\Programacion\TP 1 Bis - Afianzando colecciones\obj\Debug\net6.0\TP1Bis.genruntimeconfig.cache
+Z:\Programacion\TP 1 Bis - Afianzando colecciones\obj\Debug\net6.0\ref\TP1Bis.dll
